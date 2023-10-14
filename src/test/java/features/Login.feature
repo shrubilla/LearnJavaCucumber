@@ -1,6 +1,6 @@
 Feature: Ebay login 
 
-
+@Login
 Scenario Outline: Verify Login flow of invalid flow 
 Given User launched Ebay website
 When Navigate to sign in page
